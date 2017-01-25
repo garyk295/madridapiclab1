@@ -91,9 +91,9 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 
 3.	Open the wysiwyg (button with html on it) editor and paste in the contents below. 
 
-        <div class="footer_wrapper_div"><div class="upper_grey_block"><div class="table_div_left" style="text-align:    center;">&nbsp;</div></div><div class="lower_grey_block"><div class="centered_link" style="text-align: center;"><a>Terms of use |</a>&nbsp;<a>Terms &amp; Conditions</a>&nbsp; |&nbsp;<a>Privacy Policy</a>&nbsp; |&nbsp;<a>Cookies</a>&nbsp;<a>Accessibility</a>&nbsp; |&nbsp;<a>Sitemap</a></div><div class="list_div_left">&nbsp;</div><div class="list_div_left" style="text-align: center;"><a></a>© IBM 2016. All Rights Reserved</div></div></div>
+          <div class="footer_wrapper_div"><div class="upper_grey_block"><div class="table_div_left" style="text-align:    center;">&nbsp;</div></div><div class="lower_grey_block"><div class="centered_link" style="text-align: center;"><a>Terms of use |</a>&nbsp;<a>Terms &amp; Conditions</a>&nbsp; |&nbsp;<a>Privacy Policy</a>&nbsp; |&nbsp;<a>Cookies</a>&nbsp;<a>Accessibility</a>&nbsp; |&nbsp;<a>Sitemap</a></div><div class="list_div_left">&nbsp;</div><div class="list_div_left" style="text-align: center;"><a></a>© IBM 2016. All Rights Reserved</div></div></div>
 
-  <img src="/madridapiclab1/images/10.png" width="700">
+      <img src="/madridapiclab1/images/10.png" width="700">
 
 
 
