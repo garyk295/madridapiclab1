@@ -106,40 +106,34 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 
 
 
-## Welcome to GitHub Pages
+### Adding a Custom block to the home page
+1.	Click Structure > Pages
+2.	Click 'edit' on the 'page-welcome' page (towards the bottom of the list)
+3.	Click 'content'
 
-You can use the [editor on GitHub](https://github.com/garyk295/madridapiclab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    <img src="/images/12.png" width="700">
+    
+4.	Using the cog on 'Middle (conditional)' select 'Add content'
+5.	Click Custom Blocks
+6.	Click on ‘New Custom Content’ and set:
+        -	Administrative Title: Homepage block 1
+        -	Title: leave blank
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+7.	Click on the html button and add in the following html to the body                      
+                                        
+        <div class="light_grey_homepage_block"><div class="left_side_50_div"><div class="fixed_width_block_div"><h3 class="block_heading_2 align_text_center" style="text-align: center;"><span style="color: #444849;">Create a seamless experience with direct access to our services and intergrate them with your business</span></h3><h3 class="block_heading_2 align_text_center" style="text-align: center;"><span style="color: #444849;">Look through our API products to find the right one for your business. There's dedicated documentaion on hand for you to get started.&nbsp;</span></h3><h3 class="block_heading_2 align_text_center" style="text-align: center;"><span style="color: #444849;">If you have any questions about how to get started or need help with your existing intergration, take a look in our support section.</span></h3></div></div></div>
+                      
+      <img src="/images/13.png" width="700">
 
-### Markdown
+8.	Click update on the html source editor
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      <img src="/images/14.png" width="700">
+      
+9.	Click finish. 
+10.	Drag the Homepage block 1 that you just created to the top of the middle section (above the features_apis_title block). This will position this new section on the page underneath the welcome banner.
 
-```markdown
-Syntax highlighted code block
+      <img src="/images/15.png" width="700">
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garyk295/madridapiclab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+11.	Click 'Update and save'
+12.	Close the welcome screen admin menu to see the results on the home page of the portal
