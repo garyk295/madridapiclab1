@@ -26,7 +26,7 @@ Adding the slogan
 1.	Click Configuration > System > Site Information 
 2.	In the 'Slogan' field enter: 'Welcome to the API Portal'
 
-![Image](src)
+![Image](/images.1.png)
 
  
 3.	Save the configuration 
