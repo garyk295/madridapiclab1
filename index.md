@@ -26,8 +26,7 @@ This section can be skipped if you have already completed lab 7.1 of the PoT. Ot
 1.	Click Configuration > System > Site Information 
 2.	In the 'Slogan' field enter: 'Welcome to the API Portal'
 
-![Image](/images/)
-<img src="/images/1.png" width="48">
+<img src="/images/1.png" width="250">
 
  
 3.	Save the configuration 
