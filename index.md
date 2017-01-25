@@ -56,7 +56,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 
 1.	To activate the ‘Custom CSS’ extension go to Appearance > Setting > thinkibm_connect > Extensions > Check box ‘Custom CSS’.
 
-      <img src="/madridapiclab1/images/6.png" width="700">
+        <img src="/madridapiclab1/images/6.png" width="700">
       
 2.	Save the changes by clicking ‘Save Configuration’ at the bottom of the page. 
 3.	Now if you go to Appearance > Setting > thinkibm_connect then scroll down to the menu at the bottom (extensions), there will be a new menu tab called ‘Custom CSS’. In here, any custom CSS declarations can be set. 
@@ -87,7 +87,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 1.	Click 'Structure' > 'Blocks' 
 2.	Click configure on the 'Developer portal footer' block
 
-    <img src="/madridapiclab1/images/9.png" width="700">
+        <img src="/madridapiclab1/images/9.png" width="700">
 
 3.	Open the wysiwyg (button with html on it) editor and paste in the contents below. 
 
@@ -100,7 +100,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 4.	Click Update 
 5.	Select 'Full HTML' from the 'Text Format' drop down 
 
-  <img src="/madridapiclab1/images/11.png" width="700">
+      <img src="/madridapiclab1/images/11.png" width="700">
   
 6.	Save the block from the foot of the page
 7.	Close the window and view the changes made to the footer. 
@@ -113,7 +113,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 2.	Click 'edit' on the 'page-welcome' page (towards the bottom of the list)
 3.	Click 'content'
 
-    <img src="/madridapiclab1/images/12.png" width="700">
+        <img src="/madridapiclab1/images/12.png" width="700">
     
 4.	Using the cog on 'Middle (conditional)' select 'Add content'
 5.	Click Custom Blocks
@@ -146,7 +146,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 2.	On the 'Welcome banner' click edit
 3.	Click on the html button and edit the html source to remove all the html which is there currently.
 
-  <img src="/madridapiclab1/images/16.png" width="700">
+      <img src="/madridapiclab1/images/16.png" width="700">
   
 4.	Click update in the HTML source editor
 5.	Scroll down and save the configuration
