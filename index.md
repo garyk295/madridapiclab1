@@ -26,24 +26,24 @@ This section can be skipped if you have already completed lab 7.1 of the PoT. Ot
 1.	Click Configuration > System > Site Information 
 2.	In the 'Slogan' field enter: 'Welcome to the API Portal'
 
-  <img src="/images/1.png" width="350">
+      <img src="/images/1.png" width="350">
 
 3.	Save the configuration 
 
-  <img src="/images/2.png" width="350">
+      <img src="/images/2.png" width="350">
  
 4.	Close the current window
 
-  <img src="/images/3.png" width="350">
+      <img src="/images/3.png" width="350">
  
 5.	Click Appearance > Settings 
 6.	Navigate to the thinkibm_connect theme settings
  
-  <img src="/images/4.png" width="350">
+      <img src="/images/4.png" width="350">
  
 7.	Expand the Toggle display section and check the box for 'Site Slogan' 
 
-  <img src="/images/5.png" width="350">
+      <img src="/images/5.png" width="350">
  
 8.	Save the configuration 
 9.	You will notice that you will not be able to see any changes. This is because the color scheme of the slogan is set to white text on the white background. 
