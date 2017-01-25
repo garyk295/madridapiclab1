@@ -9,4 +9,4 @@ The developer portal section of this lab is split into 3 parts, which must be fo
 
 This section can be skipped if you already have a Bluemix account and an API Connect service provisioned. If not, please follow the link below and complete ‘Lab 0 - Setup IBM API Connect’. Once complete, return to this document and move onto part 2. 
 
-https://ibm-apiconnect.github.io/pot/lab0.html 
+[Lab 0](https://ibm-apiconnect.github.io/pot/lab0.html) 
