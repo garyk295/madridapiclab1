@@ -116,8 +116,8 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 4.	Using the cog on 'Middle (conditional)' select 'Add content'
 5.	Click Custom Blocks
 6.	Click on ‘New Custom Content’ and set:
-        -	Administrative Title: Homepage block 1
-        -	Title: leave blank
+- Administrative Title: Homepage block 1
+- Title: leave blank
 
 7.	Click on the html button and add in the following html to the body                      
                                         
