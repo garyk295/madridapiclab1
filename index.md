@@ -51,11 +51,37 @@ This section can be skipped if you have already completed lab 7.1 of the PoT. Ot
 
 
 
+## Colour schemes and custom CSS
+Here we are going to add custom CSS to our theme. For this we are going to use the ‘Custom CSS’ extension in the developer portal. Note the ‘Custom CSS’ extension is designed to make small CSS changes in the case of emergencies in production. However, the ‘Custom CSS’ extension is also useful to quickly make CSS changes at development time when you are building the look and feel of a developer portal. It saves the need to re-upload the theme every time a new CSS change is made throughout development. Once you are happy with the CSS and it is stable, it should be moved from the ‘Custom CSS’ extension and placed inside the overrides.css file inside the theme itself. 
 
+1.	To activate the ‘Custom CSS’ extension go to Appearance > Setting > thinkibm_connect > Extensions > Check box ‘Custom CSS’.
 
+      <img src="/images/6.png" width="350">
+      
+2.	Save the changes by clicking ‘Save Configuration’ at the bottom of the page. 
+3.	Now if you go to Appearance > Setting > thinkibm_connect then scroll down to the menu at the bottom (extensions), there will be a new menu tab called ‘Custom CSS’. In here, any custom CSS declarations can be set. 
+4.	Inside the custom CSS editor area, copy the flowing 2 CSS declarations:
+             
+             /*  CSS for changing the site slogan: */
+                h2#site-slogan {
+                  padding-top: 1.9em;
+                  font-size: 2em !important;
+                  color: #444849;
 
+                }
+                /* CSS for changing the logo padding: */
+                img.site-logo {
+                  height: 95px;
+                  padding-top: 14px;
+                }
 
+      <img src="/images/7.png" width="350">
 
+5.	Now scroll to the bottom of the page and hit ‘Save Configuration’. 
+6.	Scroll to the top and hit the X to close the Appearance menu and view the changes you have made. 
+
+      <img src="/images/8.png" width="350">
+      
 
 ## Welcome to GitHub Pages
 
