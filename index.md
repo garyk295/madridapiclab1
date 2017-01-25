@@ -22,11 +22,11 @@ This section can be skipped if you have already completed lab 7.1 of the PoT. Ot
 
 ## Part 3: Advanced Developer Portal Customisation
 
-Adding the slogan
+### Adding the slogan
 1.	Click Configuration > System > Site Information 
 2.	In the 'Slogan' field enter: 'Welcome to the API Portal'
 
-![Image](/images/1.png)
+![Image](/images/1.png =250x)
 
  
 3.	Save the configuration 
