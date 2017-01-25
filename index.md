@@ -83,6 +83,20 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
       <img src="/images/8.png" width="700">
       
 
+### Custom footer block
+1.	Click 'Structure' > 'Blocks' 
+2.	Click configure on the 'Developer portal footer' block
+
+    <img src="/images/9.png" width="700">
+
+3.	Open the wysiwyg (button with html on it) editor and paste in the contents below. 
+
+                <div class="footer_wrapper_div"><div class="upper_grey_block"><div class="table_div_left" style="text-align:    center;">&nbsp;</div></div><div class="lower_grey_block"><div class="centered_link" style="text-align: center;"><a>Terms of use |</a>&nbsp;<a>Terms &amp; Conditions</a>&nbsp; |&nbsp;<a>Privacy Policy</a>&nbsp; |&nbsp;<a>Cookies</a>&nbsp;<a>Accessibility</a>&nbsp; |&nbsp;<a>Sitemap</a></div><div class="list_div_left">&nbsp;</div><div class="list_div_left" style="text-align: center;"><a></a>© IBM 2016. All Rights Reserved</div></div></div>
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/garyk295/madridapiclab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
