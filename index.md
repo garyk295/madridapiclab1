@@ -1,12 +1,12 @@
 
-## Lab 1: Customising the API Connect Developer Portal
+# Lab 1: Customising the API Connect Developer Portal
 
 The developer portal section of this lab is split into 3 parts, which must be followed in order since each part builds upon the previous part. From a high level, the 3 parts are:
   1.	Set up API Connect (lab 0 in the PoT)
   2.	Perform the basic developer portal customisation lab (lab 7.1 in PoT) 
   3.	Perform the advanced developer portal customisation lab (new lab and the steps are described in this document) 
 
-#Part 1: Set up API Connect
+##Part 1: Set up API Connect
 
 This section can be skipped if you already have a Bluemix account and an API Connect service provisioned. If not, please follow the link below and complete ‘Lab 0 - Setup IBM API Connect’. Once complete, return to this document and move onto part 2. 
 
