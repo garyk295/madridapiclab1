@@ -26,24 +26,24 @@ This section can be skipped if you have already completed lab 7.1 of the PoT. Ot
 1.	Click Configuration > System > Site Information 
 2.	In the 'Slogan' field enter: 'Welcome to the API Portal'
 
-      <img src="/images/1.png" width="350">
+      <img src="/images/1.png" width="450">
 
 3.	Save the configuration 
 
-      <img src="/images/2.png" width="350">
+      <img src="/images/2.png" width="450">
  
 4.	Close the current window
 
-      <img src="/images/3.png" width="350">
+      <img src="/images/3.png" width="450">
  
 5.	Click Appearance > Settings 
 6.	Navigate to the thinkibm_connect theme settings
  
-      <img src="/images/4.png" width="350">
+      <img src="/images/4.png" width="450">
  
 7.	Expand the Toggle display section and check the box for 'Site Slogan' 
 
-      <img src="/images/5.png" width="350">
+      <img src="/images/5.png" width="450">
  
 8.	Save the configuration 
 9.	You will notice that you will not be able to see any changes. This is because the color scheme of the slogan is set to white text on the white background. 
@@ -56,7 +56,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 
 1.	To activate the ‘Custom CSS’ extension go to Appearance > Setting > thinkibm_connect > Extensions > Check box ‘Custom CSS’.
 
-      <img src="/images/6.png" width="350">
+      <img src="/images/6.png" width="450">
       
 2.	Save the changes by clicking ‘Save Configuration’ at the bottom of the page. 
 3.	Now if you go to Appearance > Setting > thinkibm_connect then scroll down to the menu at the bottom (extensions), there will be a new menu tab called ‘Custom CSS’. In here, any custom CSS declarations can be set. 
@@ -75,12 +75,12 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
                   padding-top: 14px;
                 }
 
-      <img src="/images/7.png" width="350">
+      <img src="/images/7.png" width="450">
 
 5.	Now scroll to the bottom of the page and hit ‘Save Configuration’. 
 6.	Scroll to the top and hit the X to close the Appearance menu and view the changes you have made. 
 
-      <img src="/images/8.png" width="350">
+      <img src="/images/8.png" width="450">
       
 
 ## Welcome to GitHub Pages
