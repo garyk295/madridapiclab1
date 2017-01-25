@@ -98,7 +98,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 4.	Click Update 
 5.	Select 'Full HTML' from the 'Text Format' drop down 
 
-  <img src="/images/10.png" width="700">
+  <img src="/images/11.png" width="700">
   
 6.	Save the block from the foot of the page
 7.	Close the window and view the changes made to the footer. 
