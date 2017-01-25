@@ -17,7 +17,7 @@ This section can be skipped if you already have a Bluemix account and an API Con
 
 This section can be skipped if you have already completed lab 7.1 of the PoT. Otherwise, please follow the link below and complete section 7.1 (Customise the Developer Portal) of the PoT. Do not move into section 7.2, return to this page and move onto part 3 below once lab 7.1 is complete. 
 
-[Customise the Developer Portal] (https://ibm-apiconnect.github.io/pot/lab7.html#customize-the-developer-portal)
+[Customise the Developer Portal](https://ibm-apiconnect.github.io/pot/lab7.html#customize-the-developer-portal)
 
 
 ## Part 3: Advanced Developer Portal Customisation
@@ -30,20 +30,20 @@ This section can be skipped if you have already completed lab 7.1 of the PoT. Ot
 
 3.	Save the configuration 
 
-      <img src="/images/2.png" width="450">
+      <img src="/madridapiclab1/images/2.png" width="450">
  
 4.	Close the current window
 
-      <img src="/images/3.png" width="700">
+      <img src="/madridapiclab1/images/3.png" width="700">
  
 5.	Click Appearance > Settings 
 6.	Navigate to the thinkibm_connect theme settings
  
-      <img src="/images/4.png" width="700">
+      <img src="/madridapiclab1/images/4.png" width="700">
  
 7.	Expand the Toggle display section and check the box for 'Site Slogan' 
 
-      <img src="/images/5.png" width="450">
+      <img src="/madridapiclab1/images/5.png" width="450">
  
 8.	Save the configuration 
 9.	You will notice that you will not be able to see any changes. This is because the color scheme of the slogan is set to white text on the white background. 
@@ -56,7 +56,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 
 1.	To activate the ‘Custom CSS’ extension go to Appearance > Setting > thinkibm_connect > Extensions > Check box ‘Custom CSS’.
 
-      <img src="/images/6.png" width="700">
+      <img src="/madridapiclab1/images/6.png" width="700">
       
 2.	Save the changes by clicking ‘Save Configuration’ at the bottom of the page. 
 3.	Now if you go to Appearance > Setting > thinkibm_connect then scroll down to the menu at the bottom (extensions), there will be a new menu tab called ‘Custom CSS’. In here, any custom CSS declarations can be set. 
@@ -75,32 +75,32 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
                   padding-top: 14px;
                 }
 
-      <img src="/images/7.png" width="700">
+      <img src="/madridapiclab1/images/7.png" width="700">
 
 5.	Now scroll to the bottom of the page and hit ‘Save Configuration’. 
 6.	Scroll to the top and hit the X to close the Appearance menu and view the changes you have made. 
 
-      <img src="/images/8.png" width="700">
+      <img src="/madridapiclab1/images/8.png" width="700">
       
 
 ### Custom footer block
 1.	Click 'Structure' > 'Blocks' 
 2.	Click configure on the 'Developer portal footer' block
 
-    <img src="/images/9.png" width="700">
+    <img src="/madridapiclab1/images/9.png" width="700">
 
 3.	Open the wysiwyg (button with html on it) editor and paste in the contents below. 
 
         <div class="footer_wrapper_div"><div class="upper_grey_block"><div class="table_div_left" style="text-align:    center;">&nbsp;</div></div><div class="lower_grey_block"><div class="centered_link" style="text-align: center;"><a>Terms of use |</a>&nbsp;<a>Terms &amp; Conditions</a>&nbsp; |&nbsp;<a>Privacy Policy</a>&nbsp; |&nbsp;<a>Cookies</a>&nbsp;<a>Accessibility</a>&nbsp; |&nbsp;<a>Sitemap</a></div><div class="list_div_left">&nbsp;</div><div class="list_div_left" style="text-align: center;"><a></a>© IBM 2016. All Rights Reserved</div></div></div>
 
-  <img src="/images/10.png" width="700">
+  <img src="/madridapiclab1/images/10.png" width="700">
 
 
 
 4.	Click Update 
 5.	Select 'Full HTML' from the 'Text Format' drop down 
 
-  <img src="/images/11.png" width="700">
+  <img src="/madridapiclab1/images/11.png" width="700">
   
 6.	Save the block from the foot of the page
 7.	Close the window and view the changes made to the footer. 
@@ -113,7 +113,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 2.	Click 'edit' on the 'page-welcome' page (towards the bottom of the list)
 3.	Click 'content'
 
-    <img src="/images/12.png" width="700">
+    <img src="/madridapiclab1/images/12.png" width="700">
     
 4.	Using the cog on 'Middle (conditional)' select 'Add content'
 5.	Click Custom Blocks
@@ -125,16 +125,16 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
                                         
         <div class="light_grey_homepage_block"><div class="left_side_50_div"><div class="fixed_width_block_div"><h3 class="block_heading_2 align_text_center" style="text-align: center;"><span style="color: #444849;">Create a seamless experience with direct access to our services and intergrate them with your business</span></h3><h3 class="block_heading_2 align_text_center" style="text-align: center;"><span style="color: #444849;">Look through our API products to find the right one for your business. There's dedicated documentaion on hand for you to get started.&nbsp;</span></h3><h3 class="block_heading_2 align_text_center" style="text-align: center;"><span style="color: #444849;">If you have any questions about how to get started or need help with your existing intergration, take a look in our support section.</span></h3></div></div></div>
                       
-      <img src="/images/13.png" width="700">
+      <img src="/madridapiclab1/images/13.png" width="700">
 
 8.	Click update on the html source editor
 
-      <img src="/images/14.png" width="700">
+      <img src="/madridapiclab1/images/14.png" width="700">
       
 9.	Click finish. 
 10.	Drag the Homepage block 1 that you just created to the top of the middle section (above the features_apis_title block). This will position this new section on the page underneath the welcome banner.
 
-      <img src="/images/15.png" width="700">
+      <img src="/madridapiclab1/images/15.png" width="700">
 
 
 11.	Click 'Update and save'
@@ -146,7 +146,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 2.	On the 'Welcome banner' click edit
 3.	Click on the html button and edit the html source to remove all the html which is there currently.
 
-  <img src="/images/16.png" width="700">
+  <img src="/madridapiclab1/images/16.png" width="700">
   
 4.	Click update in the HTML source editor
 5.	Scroll down and save the configuration
