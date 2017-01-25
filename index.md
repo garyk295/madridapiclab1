@@ -6,11 +6,47 @@ The developer portal section of this lab is split into 3 parts, which must be fo
   2.	Perform the basic developer portal customisation lab (lab 7.1 in PoT) 
   3.	Perform the advanced developer portal customisation lab (new lab and the steps are described in this document) 
 
-##Part 1: Set up API Connect
+## Part 1: Set up API Connect
 
 This section can be skipped if you already have a Bluemix account and an API Connect service provisioned. If not, please follow the link below and complete ‘Lab 0 - Setup IBM API Connect’. Once complete, return to this document and move onto part 2. 
 
-[Lab 0](https://ibm-apiconnect.github.io/pot/lab0.html) 
+[Setup IBM API Connect Instructions](https://ibm-apiconnect.github.io/pot/lab0.html) 
+
+
+## Part 2: Basic Developer Portal Customisation
+
+This section can be skipped if you have already completed lab 7.1 of the PoT. Otherwise, please follow the link below and complete section 7.1 (Customise the Developer Portal) of the PoT. Do not move into section 7.2, return to this page and move onto part 3 below once lab 7.1 is complete. 
+
+[Customise the Developer Portal] (https://ibm-apiconnect.github.io/pot/lab7.html#customize-the-developer-portal)
+
+
+## Part 3: Advanced Developer Portal Customisation
+
+Adding the slogan
+1.	Click Configuration > System > Site Information 
+2.	In the 'Slogan' field enter: 'Welcome to the API Portal'
+
+![Image](src)
+
+ 
+3.	Save the configuration 
+ 
+4.	Close the current window
+ 
+5.	Click Appearance > Settings 
+6.	Navigate to the thinkibm_connect theme settings
+ 
+7.	Expand the Toggle display section and check the box for 'Site Slogan' 
+ 
+8.	Save the configuration 
+9.	You will notice that you will not be able to see any changes. This is because the color scheme of the slogan is set to white text on the white background. 
+
+
+
+
+
+
+
 
 
 
