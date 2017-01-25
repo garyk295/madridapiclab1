@@ -34,12 +34,12 @@ This section can be skipped if you have already completed lab 7.1 of the PoT. Ot
  
 4.	Close the current window
 
-      <img src="/images/3.png" width="450">
+      <img src="/images/3.png" width="700">
  
 5.	Click Appearance > Settings 
 6.	Navigate to the thinkibm_connect theme settings
  
-      <img src="/images/4.png" width="450">
+      <img src="/images/4.png" width="700">
  
 7.	Expand the Toggle display section and check the box for 'Site Slogan' 
 
@@ -56,7 +56,7 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 
 1.	To activate the ‘Custom CSS’ extension go to Appearance > Setting > thinkibm_connect > Extensions > Check box ‘Custom CSS’.
 
-      <img src="/images/6.png" width="450">
+      <img src="/images/6.png" width="700">
       
 2.	Save the changes by clicking ‘Save Configuration’ at the bottom of the page. 
 3.	Now if you go to Appearance > Setting > thinkibm_connect then scroll down to the menu at the bottom (extensions), there will be a new menu tab called ‘Custom CSS’. In here, any custom CSS declarations can be set. 
@@ -75,12 +75,12 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
                   padding-top: 14px;
                 }
 
-      <img src="/images/7.png" width="450">
+      <img src="/images/7.png" width="700">
 
 5.	Now scroll to the bottom of the page and hit ‘Save Configuration’. 
 6.	Scroll to the top and hit the X to close the Appearance menu and view the changes you have made. 
 
-      <img src="/images/8.png" width="450">
+      <img src="/images/8.png" width="700">
       
 
 ## Welcome to GitHub Pages
