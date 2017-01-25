@@ -28,7 +28,6 @@ This section can be skipped if you have already completed lab 7.1 of the PoT. Ot
 
 <img src="/images/1.png" width="350">
 
- 
 3.	Save the configuration 
 
 <img src="/images/2.png" width="350">
