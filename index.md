@@ -95,6 +95,8 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 
   <img src="/images/10.png" width="700">
 
+
+
 4.	Click Update 
 5.	Select 'Full HTML' from the 'Text Format' drop down 
 
@@ -137,3 +139,15 @@ Here we are going to add custom CSS to our theme. For this we are going to use t
 
 11.	Click 'Update and save'
 12.	Close the welcome screen admin menu to see the results on the home page of the portal
+
+
+### Remove text on the banner image
+1.	Click 'Content' > 'Blocks'
+2.	On the 'Welcome banner' click edit
+3.	Click on the html button and edit the html source to remove all the html which is there currently.
+
+  <img src="/images/16.png" width="700">
+  
+4.	Click update in the HTML source editor
+5.	Scroll down and save the configuration
+6.	Close the content editor to see the results on the home page
